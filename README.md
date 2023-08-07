@@ -75,6 +75,3 @@ This is a repository to show case bioinfo projects that utilize command line too
     comm -1 -2 conditionAB conditionC | wc -l
     ```
 
-**Note**: Make sure to replace `conditionA`, `conditionB`, and `conditionC` with the appropriate filenames representing the gene lists for each condition.
-
-Remember that these commands assume the data is properly formatted and placed in the specified files (`apple.genome` and `apple.genes`). If you encounter any issues, check the file paths and contents to ensure accurate results. Happy analyzing!
