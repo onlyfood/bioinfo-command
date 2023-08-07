@@ -1,6 +1,6 @@
 # bioinfo-command
 This is a repository to show case bioinfo projects that utilize command line tools. Most if not all command lines are ran under UNIX environment.
-### basic unix code
+## basic unix code
 
 ### Getting Started
 1. Navigate to the `project1` folder by using the command `cd project1`.
