@@ -1,5 +1,4 @@
-#Direct to project1 folder
-[guest@centos6] cd project1
+
 
 #Extract files
 [guest@centos6 project1]$ gunzip
